@@ -1,0 +1,11 @@
+﻿  拼图.cpp
+D:\MEdown\c-easyx-PuzzleGame-main\c-easyx-PuzzleGame-main\拼图\拼图.cpp(44,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\MEdown\c-easyx-PuzzleGame-main\c-easyx-PuzzleGame-main\拼图\拼图.cpp(142,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\MEdown\c-easyx-PuzzleGame-main\c-easyx-PuzzleGame-main\拼图\拼图.cpp(337,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\MEdown\c-easyx-PuzzleGame-main\c-easyx-PuzzleGame-main\拼图\拼图.cpp(339,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  正在生成代码
+  0 of 28 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  拼图.vcxproj -> D:\MEdown\c-easyx-PuzzleGame-main\c-easyx-PuzzleGame-main\Release\拼图.exe
